@@ -1,4 +1,4 @@
 # FastFoodWaitTime
 1. First ordered list item
-2. Amother item
-..* Unordered sub list 
+2. Another item
+..* Unordered sub list
