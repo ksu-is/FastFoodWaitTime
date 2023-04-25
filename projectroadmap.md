@@ -4,7 +4,7 @@ Roadmap
 
 - [x] Develop the Readme.md file
 
-- [] Find Related Repository and Evaluate
+- [x] Find Related Repository and Evaluate
 
 - [x] Find and Evaluate Example Programs
 
@@ -18,7 +18,7 @@ Roadmap
 
 
 '### Fast Food Restuarunts
-[] Burgert King
+[] Burger King
 [] McDonald's 
 [] Chick Fil A
 [] Wendy's 
