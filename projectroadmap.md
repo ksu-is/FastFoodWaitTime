@@ -1,15 +1,26 @@
 Roadmap
+'### Application Check List 
 
--[] Develop the Readme.md file
 
--[] Find Related Repository and Evaluate
+- [x] Develop the Readme.md file
 
--[] Find and Evaluate Example Programs
+- [] Find Related Repository and Evaluate
 
--[] Find words that are affiliated with mood of writing
+- [x] Find and Evaluate Example Programs
 
--[] Develop the example .txt file with found words
+- [] Find words that are affiliated with mood of writing
 
--[] Develop the program to read the .txt file and evaluate the mood
+- [] Develop the example .txt file with found words
 
--[] Develop the program to display the mood of the writing
+- [] Develop the program to read the .txt file and evaluate the mood
+
+- [] Develop the program to display the mood of the writing
+
+
+'### Fast Food Restuarunts
+[] Burgert King
+[] McDonald's 
+[] Chick Fil A
+[] Wendy's 
+[] Taco Bell
+[] Dairy Queen
