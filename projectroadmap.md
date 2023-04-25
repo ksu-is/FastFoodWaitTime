@@ -18,9 +18,15 @@ Roadmap
 
 
 '### Fast Food Restuarunts
+
 [] Burger King
+
 [] McDonald's 
+
 [] Chick Fil A
+
 [] Wendy's 
+
 [] Taco Bell
+
 [] Dairy Queen
